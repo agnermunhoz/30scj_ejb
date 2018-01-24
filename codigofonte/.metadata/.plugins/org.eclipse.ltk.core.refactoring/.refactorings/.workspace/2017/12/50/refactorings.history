@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Delete 18 resources" deleteContents="true" description="Delete 18 resources" element1="/2.1-ejb3-cliente-cluster" element10="/3.7-ejb2-EntityBean (extra)" element11="/3.7-ejb2-tiposSession" element12="/3.7-ejb2-tiposSession-cliente" element13="/4.1-ejb3-WebService" element14="/4.2-ejb3-controleChamados" element15="/4.3-ejb3-controleChamados-EntityBean" element16="/4.4-ejb3-transacao" element17="/4.5-ejb3-transacao-XA" element18="/4.6-ejb3-MDB" element2="/3.11-ejb3-comSeguranca" element3="/3.1-ejb3-tiposSession" element4="/3.1-ejb3-tiposSession-cliente" element5="/3.2-ServiceLocator" element6="/3.3-ejb3-tiposSession-cliente-ServiceLocator" element7="/3.7-ejb2" element8="/3.7-ejb2-cliente" element9="/3.7-ejb2-cliente-ServiceLocator" flags="7" id="org.eclipse.ltk.core.refactoring.delete.resources" resources="18" stamp="1513418749523"/>
+</session>

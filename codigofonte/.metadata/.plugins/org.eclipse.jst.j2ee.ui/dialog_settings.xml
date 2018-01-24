@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<item value="true" key="J2EE_EXPORT_OVERWRITE"/>
+	<item value="false" key="J2EE_EXPORT_SOURCE"/>
+	<list key="J2EE_EXPORT_JST_EJB">
+		<item value="C:\jboss6\server\default\deploy\4.5-ejb3-transacao-XA.jar"/>
+		<item value="C:\jboss6\server\default\deploy\4.1-ejb3-WebService.jar"/>
+		<item value="C:\jboss6\server\default\deploy\3.1-ejb3-tiposSession.jar"/>
+		<item value="C:\jboss6\server\default\deploy\4.4-ejb3-transacao.jar"/>
+	</list>
+	<list key="MRU_RUNTIME_STORE">
+		<item value="JBoss 6.x Runtime"/>
+	</list>
+</section>

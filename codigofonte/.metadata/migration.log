@@ -1,0 +1,93 @@
+
+INFO     Validating project: 2.1-ejb3
+INFO     Finished validating project: 2.1-ejb3
+
+INFO     Validating project: 2.1-ejb3-cliente
+INFO     Finished validating project: 2.1-ejb3-cliente
+
+INFO     Validating project: 2.1-ejb3-cliente-cluster
+INFO     Finished validating project: 2.1-ejb3-cliente-cluster
+
+INFO     Validating project: 3.1-ejb3-tiposSession
+INFO     Finished validating project: 3.1-ejb3-tiposSession
+
+INFO     Validating project: 3.11-ejb3-comSeguranca
+INFO     Finished validating project: 3.11-ejb3-comSeguranca
+
+INFO     Validating project: 3.4-ejb3-WebService
+INFO     Finished validating project: 3.4-ejb3-WebService
+
+INFO     Validating project: 3.5-ejb3-controleChamados
+INFO     Finished validating project: 3.5-ejb3-controleChamados
+
+INFO     Validating project: 3.6-ejb3-controleChamados-EntityBean
+INFO     Finished validating project: 3.6-ejb3-controleChamados-EntityBean
+
+INFO     Validating project: 3.7-ejb2
+INFO     Finished validating project: 3.7-ejb2
+
+INFO     Validating project: 3.7-ejb2-EntityBean (extra)
+INFO     Finished validating project: 3.7-ejb2-EntityBean (extra)
+
+INFO     Validating project: 3.7-ejb2-tiposSession
+INFO     Finished validating project: 3.7-ejb2-tiposSession
+
+INFO     Validating project: 4.1-ejb3-transacao
+INFO     Finished validating project: 4.1-ejb3-transacao
+
+INFO     Validating project: 4.2-ejb3-transacao-XA
+INFO     Finished validating project: 4.2-ejb3-transacao-XA
+
+INFO     Validating project: 4.3-ejb3-MDB
+INFO     Finished validating project: 4.3-ejb3-MDB
+
+Migration complete
+
+INFO     Validating project: 2.1-ejb3
+INFO     Finished validating project: 2.1-ejb3
+
+INFO     Validating project: 2.1-ejb3-cliente
+INFO     Finished validating project: 2.1-ejb3-cliente
+
+INFO     Validating project: 2.1-ejb3-cliente-cluster
+INFO     Finished validating project: 2.1-ejb3-cliente-cluster
+
+INFO     Validating project: 3.1-ejb3-tiposSession
+INFO     Finished validating project: 3.1-ejb3-tiposSession
+
+INFO     Validating project: 3.11-ejb3-comSeguranca
+INFO     Finished validating project: 3.11-ejb3-comSeguranca
+
+INFO     Validating project: 3.4-ejb3-WebService
+INFO     Finished validating project: 3.4-ejb3-WebService
+
+INFO     Validating project: 3.5-ejb3-controleChamados
+INFO     Finished validating project: 3.5-ejb3-controleChamados
+
+INFO     Validating project: 3.6-ejb3-controleChamados-EntityBean
+INFO     Finished validating project: 3.6-ejb3-controleChamados-EntityBean
+
+INFO     Validating project: 3.7-ejb2
+INFO     Finished validating project: 3.7-ejb2
+
+INFO     Validating project: 3.7-ejb2-EntityBean (extra)
+INFO     Finished validating project: 3.7-ejb2-EntityBean (extra)
+
+INFO     Validating project: 3.7-ejb2-tiposSession
+INFO     Finished validating project: 3.7-ejb2-tiposSession
+
+INFO     Validating project: 4.1-ejb3-transacao
+INFO     Finished validating project: 4.1-ejb3-transacao
+
+INFO     Validating project: 4.2-ejb3-transacao-XA
+INFO     Finished validating project: 4.2-ejb3-transacao-XA
+
+INFO     Validating project: 4.3-ejb3-MDB
+INFO     Finished validating project: 4.3-ejb3-MDB
+
+Migration complete
+
+INFO     Validating project: 3.11-ejb3-comSeguranca
+INFO     Finished validating project: 3.11-ejb3-comSeguranca
+
+Migration complete
